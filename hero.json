@@ -1,0 +1,23 @@
+{
+    "name":"hero",
+    "sex":"男",
+    "strong":1000,
+    "height":173,
+    "power":[
+        {
+          "ability":"fly",
+          "duration":"100 hour",
+          "waiting":"10s",
+        }
+        {
+          "ability":"electricity",
+          "duration":"100 hour",
+          "waiting":"0s",
+        }
+        {
+          "ability":"resurrection",
+          "duration":"100 hour",
+          "waiting":"0s",
+        }
+    ]
+}
