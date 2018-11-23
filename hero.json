@@ -18,6 +18,6 @@
           "ability":"resurrection",
           "duration":"100 hour",
           "waiting":"0s",
-        },
+        }
     ]
 }
