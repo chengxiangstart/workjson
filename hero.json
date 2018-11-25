@@ -7,17 +7,17 @@
         {
           "ability":"fly",
           "duration":"100 hour",
-          "waiting":"10s",
+          "waiting":"10s"
         },
         {
           "ability":"electricity",
           "duration":"100 hour",
-          "waiting":"0s",
+          "waiting":"0s"
         },
         {
           "ability":"resurrection",
           "duration":"100 hour",
-          "waiting":"0s",
+          "waiting":"0s"
         }
     ]
 }
